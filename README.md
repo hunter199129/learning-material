@@ -20,3 +20,6 @@
 這邊主要是提供一些比較新穎的專案，讓學習者去做實作跟修改，重實作面，感覺也很有趣！
 
 大概是這樣，其實這種學習資源應該要放在github上當repo會更好，嗯...之後再看看吧。
+
+for npm learning:
+https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.guc2jwo5i
