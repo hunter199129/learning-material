@@ -6,7 +6,8 @@ for ML:
 
 - [DataCamp](https://campus.datacamp.com)
 
-新手入門網站，教R跟Python跟一些基礎的資料分析
+新手入門網站，教R跟Python跟一些基礎的資料分析。
+基本上每一堂課的剛開始都不用錢，但是後面章節就需要Premium資格。
 
 - [fast.ai](http://course.fast.ai/)
 
